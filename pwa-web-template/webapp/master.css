@@ -1,0 +1,38 @@
+body{
+    background-color: #424242;
+    color: #d1c0d6;
+    font-family: consolas;
+    font-size:x-large;
+    font-weight: bold;
+}
+nav{
+    background-color: #8f37aa;
+    color: #e3d5e7;
+    height: 82px;
+    width: 100%;
+}
+a:visited{
+    color: #e3d5e7;
+}
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style-type: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+label.logo{
+    width: 10%;
+    height: auto;
+    padding: 0 8px;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 8px;
+}

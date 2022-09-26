@@ -1,0 +1,23 @@
+{
+    "name": "Speed Reader",
+    "short_name": "Spreeding",
+    "start_url": "main.html",
+    "background_color": "#8f37aa",
+    "theme_color": "#682e7a",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "images/logo192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+        ,
+        {
+            "src": "images/logo512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}
